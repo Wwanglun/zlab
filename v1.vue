@@ -1,3 +1,7 @@
 <template>
-    <div>我是主版本</div>
+<div>
+    <div class="class">
+        <div>主版本</div>
+    </div>
+</div>
 </template>
